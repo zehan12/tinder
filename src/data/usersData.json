@@ -1,0 +1,136 @@
+{
+    "users": [
+        {
+            "gender": "female",
+            "name": {
+                "first": "Alexandra",
+                "last": "Torres"
+            },
+            "location": {
+                "city": "Lancaster",
+                "state": "Hawaii",
+                "country": "United States"
+            },
+            "dob": {
+                "age": 28
+            },
+            "id": {
+                "name": "SSN",
+                "value": "273-46-1579"
+            },
+            "picture": {
+                "large": "https://i.postimg.cc/J4R2t42b/327184399-210751844785239-1594015398425418125-n.jpg"
+            }
+        },
+        {
+            "gender": "female",
+            "name": {
+                "first": "Blanca",
+                "last": "Torres"
+            },
+            "location": {
+                "city": "Lancaster",
+                "state": "Hawaii",
+                "country": "United States"
+            },
+            "dob": {
+                "age": 34
+            },
+            "id": {
+                "name": "SSN",
+                "value": "273-46-1579"
+            },
+            "picture": {
+                "large": "https://i.postimg.cc/mrpTqSHm/actress-blanca-suarez-attends-the-gq-men-of-the-year-awards-news-photo-1668762064.jpg"
+            }
+        },
+        {
+            "gender": "female",
+            "name": {
+                "first": "Kaylee",
+                "last": "Torres"
+            },
+            "location": {
+                "city": "Lancaster",
+                "state": "Hawaii",
+                "country": "United States"
+            },
+            "dob": {
+                "age": 26
+            },
+            "id": {
+                "name": "SSN",
+                "value": "273-46-1579"
+            },
+            "picture": {
+                "large": "https://i.postimg.cc/8c6WscGV/96117348-579314216049736-3538533359440448120-n.jpg"
+            }
+        },
+        {
+            "gender": "female",
+            "name": {
+                "first": "Florencia",
+                "last": "Torres"
+            },
+            "location": {
+                "city": "Lancaster",
+                "state": "Hawaii",
+                "country": "United States"
+            },
+            "dob": {
+                "age": 26
+            },
+            "id": {
+                "name": "SSN",
+                "value": "273-46-1579"
+            },
+            "picture": {
+                "large": "https://i.postimg.cc/8c6WscGV/96117348-579314216049736-3538533359440448120-n.jpg"
+            }
+        },
+        {
+            "gender": "female",
+            "name": {
+                "first": "Dina",
+                "last": "Torres"
+            },
+            "location": {
+                "city": "Lancaster",
+                "state": "Hawaii",
+                "country": "United States"
+            },
+            "dob": {
+                "age": 26
+            },
+            "id": {
+                "name": "SSN",
+                "value": "273-46-1579"
+            },
+            "picture": {
+                "large": "https://i.postimg.cc/zDyXjXy9/281914651-5180310522048341-7926441123279813703-n.jpg"
+            }
+        },
+        {
+            "gender": "female",
+            "name": {
+                "first": "Florencia",
+                "last": "Torres"
+            },
+            "location": {
+                "city": "Lancaster",
+                "state": "Hawaii",
+                "country": "United States"
+            },
+            "dob": {
+                "age": 26
+            },
+            "id": {
+                "name": "SSN",
+                "value": "273-46-1579"
+            },
+            "picture": {
+                "large": "https://i.postimg.cc/8c6WscGV/96117348-579314216049736-3538533359440448120-n.jpg"
+            }
+        }
+    ]
+}
